@@ -8,7 +8,6 @@ public class GitTest {
         System.out.println("tuwan");
         System.out.println("44");
         System.out.println("55");
-        System.out.println("66");
         System.out.println("push test");
     }
 }
